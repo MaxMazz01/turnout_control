@@ -6,17 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0b816ed-1cdc-43e6-a417-daa31478150a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/turnoutControl_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/turnoutControl_jar/turnoutControl.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/turnoutControl_jar/turnoutControl.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/turnoutControl/org/mazzarese/turnoutControl/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/turnoutControl/org/mazzarese/turnoutControl/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/turnoutControl/org/mazzarese/turnoutControl/Turnout.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/turnoutControl/org/mazzarese/turnoutControl/Turnout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/turnoutControl/org/mazzarese/turnoutControl/TurnoutBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/turnoutControl/org/mazzarese/turnoutControl/TurnoutBank.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/turnoutControl/org/mazzarese/turnoutControl/TurnoutCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/turnoutControl/org/mazzarese/turnoutControl/TurnoutCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/mazzarese/turnoutControl/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/mazzarese/turnoutControl/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/mazzarese/turnoutControl/Turnout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/mazzarese/turnoutControl/Turnout.java" afterDir="false" />
-    </list>
+    <list default="true" id="a0b816ed-1cdc-43e6-a417-daa31478150a" name="Default Changelist" comment="packaged program" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,29 +115,33 @@
       <screen x="70" y="27" width="1978" height="1125" />
     </state>
     <state x="310" y="378" width="525" height="443" key="#com.intellij.ide.util.TreeClassChooserDialog/70.27.1978.1125@70.27.1978.1125" timestamp="1585598310395" />
-    <state x="121" y="157" width="876" height="871" key="CommitChangelistDialog2" timestamp="1585598556518">
+    <state x="121" y="157" width="912" height="871" key="CommitChangelistDialog2" timestamp="1589150234659">
       <screen x="70" y="27" width="1978" height="1125" />
     </state>
-    <state x="121" y="157" width="876" height="871" key="CommitChangelistDialog2/70.27.1978.1125@70.27.1978.1125" timestamp="1585598556518" />
-    <state width="943" height="219" key="GridCell.Tab.0.bottom" timestamp="1585600267478">
+    <state x="121" y="157" width="912" height="871" key="CommitChangelistDialog2/70.27.1978.1125@70.27.1978.1125" timestamp="1589150234659" />
+    <state width="1932" height="219" key="GridCell.Tab.0.bottom" timestamp="1589150264612">
       <screen x="70" y="27" width="1978" height="1125" />
     </state>
-    <state width="943" height="219" key="GridCell.Tab.0.bottom/70.27.1978.1125@70.27.1978.1125" timestamp="1585600267478" />
-    <state width="943" height="219" key="GridCell.Tab.0.center" timestamp="1585600267478">
+    <state width="1932" height="219" key="GridCell.Tab.0.bottom/70.27.1978.1125@70.27.1978.1125" timestamp="1589150264612" />
+    <state width="1932" height="219" key="GridCell.Tab.0.center" timestamp="1589150264611">
       <screen x="70" y="27" width="1978" height="1125" />
     </state>
-    <state width="943" height="219" key="GridCell.Tab.0.center/70.27.1978.1125@70.27.1978.1125" timestamp="1585600267478" />
-    <state width="943" height="219" key="GridCell.Tab.0.left" timestamp="1585600267477">
+    <state width="1932" height="219" key="GridCell.Tab.0.center/70.27.1978.1125@70.27.1978.1125" timestamp="1589150264611" />
+    <state width="1932" height="219" key="GridCell.Tab.0.left" timestamp="1589150264611">
       <screen x="70" y="27" width="1978" height="1125" />
     </state>
-    <state width="943" height="219" key="GridCell.Tab.0.left/70.27.1978.1125@70.27.1978.1125" timestamp="1585600267477" />
-    <state width="943" height="219" key="GridCell.Tab.0.right" timestamp="1585600267478">
+    <state width="1932" height="219" key="GridCell.Tab.0.left/70.27.1978.1125@70.27.1978.1125" timestamp="1589150264611" />
+    <state width="1932" height="219" key="GridCell.Tab.0.right" timestamp="1589150264612">
       <screen x="70" y="27" width="1978" height="1125" />
     </state>
-    <state width="943" height="219" key="GridCell.Tab.0.right/70.27.1978.1125@70.27.1978.1125" timestamp="1585600267478" />
+    <state width="1932" height="219" key="GridCell.Tab.0.right/70.27.1978.1125@70.27.1978.1125" timestamp="1589150264612" />
     <state x="70" y="167" width="1024" height="852" key="SettingsEditor" timestamp="1585598373562">
       <screen x="70" y="27" width="1978" height="1125" />
     </state>
     <state x="70" y="167" width="1024" height="852" key="SettingsEditor/70.27.1978.1125@70.27.1978.1125" timestamp="1585598373562" />
+    <state x="801" y="490" width="506" height="206" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1589150675856">
+      <screen x="70" y="27" width="1978" height="1125" />
+    </state>
+    <state x="801" y="490" width="506" height="206" key="git4idea.remote.GitConfigureRemotesDialog/70.27.1978.1125@70.27.1978.1125" timestamp="1589150675856" />
   </component>
 </project>
