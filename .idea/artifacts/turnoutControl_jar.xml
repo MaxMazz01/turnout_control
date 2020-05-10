@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="turnoutControl:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/turnoutControl_jar</output-path>
+    <root id="archive" name="turnoutControl.jar">
+      <element id="module-output" name="turnoutControl" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/jSerialComm-2.5.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
